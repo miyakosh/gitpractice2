@@ -1,1 +1,1 @@
-git講座復習
+git講座復習　master→main
